@@ -1,0 +1,44 @@
+body {
+    background-color: #f7f2e7;
+}
+
+.navbar-custom {
+    background-color: #6f4e37;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #ffffff;
+}
+
+
+.form-control {
+    background-color: #fff3cd;
+}
+
+
+.btn-custom {
+    background-color: #8a654a;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #6f4e37; 
+}
+
+.btn-custom {
+    background-color: #8a654a;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px; 
+}
+
+.btn-custom:hover {
+    background-color: #6f4e37;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+

@@ -1,0 +1,80 @@
+
+
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f7f2e7;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+
+}
+
+input[type="email"],
+input[type="text"],
+input[type="password"],
+input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff3cd;
+}
+
+input[type="submit"],
+input[type="reset"] {
+  background-color: #6f4e37;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.user-picture {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  float: inline-end;
+  margin-right: 10px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  background-color: #6f4e37;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+
+
+
+}
+
+
+
+td a {
+  text-decoration: none;
+  /* this about edit and delete style in all users*/
+  font-size: 17px;
+  color: black;
+
+}
+
+
+.btn {
+  color: white;
+  background-color: #6f4e37;
+
+}
+
